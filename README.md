@@ -1,6 +1,5 @@
 # Samimart.github.oi
 Samy Mart shop as much as you want at reasonable price
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
